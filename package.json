@@ -1,6 +1,6 @@
 {
   "name": "@tlylt/markdown-it-imsize",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Markdown-it plugin to specify image size",
   "main": "lib/index.js",
   "scripts": {
