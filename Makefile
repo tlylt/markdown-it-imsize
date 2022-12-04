@@ -8,7 +8,6 @@ lint:
 publish:
 	webpack ./
 	uglifyjs dist/markdown-it-imsize.js > dist/markdown-it-imsize.min.js
-	bower register markdown-it-imsize https://github.com/tatsy/markdown-it-imsize.git
 
 test:
 	mocha

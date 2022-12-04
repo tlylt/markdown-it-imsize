@@ -1,4 +1,5 @@
 # markdown-it-imsize
+(Patched to fix behaviors that are now inconsistent with the latest markdown-it)
 
 [![Build Status](https://travis-ci.org/tatsy/markdown-it-imsize.svg?branch=master)](https://travis-ci.org/tatsy/markdown-it-imsize)
 [![NPM version](https://img.shields.io/npm/v/markdown-it-imsize.svg?style=flat)](https://www.npmjs.org/package/markdown-it-imsize)
