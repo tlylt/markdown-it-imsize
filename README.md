@@ -1,7 +1,7 @@
 # @tlylt/markdown-it-imsize
 (Patched to fix behaviors that are now inconsistent with the latest markdown-it)
 
-[![Build Status](https://travis-ci.org/tlylt/markdown-it-imsize.svg?branch=master)](https://travis-ci.org/tlylt/markdown-it-imsize)
+[![Test](https://github.com/tlylt/markdown-it-imsize/actions/workflows/ci.yml/badge.svg)](https://github.com/tlylt/markdown-it-imsize/actions/workflows/ci.yml)
 [![NPM version](https://img.shields.io/npm/v/@tlylt/markdown-it-imsize.svg?style=flat)](https://www.npmjs.org/package/@tlylt/markdown-it-imsize)
 
 > A markdown-it plugin for size-specified image markups. This plugin overloads original image renderer of markdown-it.
